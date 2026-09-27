@@ -1,4 +1,4 @@
-# Fashion Brand
+# Fashion Brand – Affordable Style for the Bold Generation
 
 Affordable, fashionable, good-quality clothing for young adults, students, and working professionals who want to look stylish and confident without overspending.
 

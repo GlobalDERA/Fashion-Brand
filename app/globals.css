@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Phase 1 design tokens — Forest / Charcoal / Steel / Light */
+:root {
+  --forest: #1b4332;
+  --forest-dark: #143325;
+  --forest-light: #e4ede6;
+  --charcoal: #24272b;
+  --steel: #6e7b8b;
+  --light: #f4f5f3;
+  --success: #1b4332;
+  --warning: #b7791f;
+  --danger: #c0392b;
+  --radius-card: 12px;
+  --shadow-soft: 0 8px 30px rgba(36, 39, 43, 0.08);
+}
+
+html { scroll-behavior: smooth; }
+body { @apply bg-light text-charcoal antialiased; font-family: Inter, system-ui, sans-serif; }
+h1, h2, h3, .font-display { font-family: Sora, "Space Grotesk", system-ui, sans-serif; letter-spacing: -0.02em; }
+
+.btn-primary { @apply inline-flex items-center justify-center rounded-full bg-forest px-6 py-3 text-sm font-semibold text-white transition hover:bg-forest-dark focus:outline-none focus-visible:ring-2 focus-visible:ring-forest focus-visible:ring-offset-2; }
+.btn-secondary { @apply inline-flex items-center justify-center rounded-full border border-charcoal/15 bg-white px-6 py-3 text-sm font-semibold text-charcoal transition hover:border-charcoal/30; }
+.card { @apply rounded-card bg-white shadow-soft; }
+.badge { @apply inline-flex items-center rounded-full px-2.5 py-1 text-xs font-semibold; }
+.input { @apply w-full rounded-xl border border-charcoal/15 bg-white px-4 py-2.5 text-sm outline-none focus:border-forest; }

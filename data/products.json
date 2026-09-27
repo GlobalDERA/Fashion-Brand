@@ -1,0 +1,115 @@
+[
+  {
+    "slug": "everyday-tee-sand",
+    "title": "Everyday Tee — Sand",
+    "collection": "Essentials",
+    "price": 19,
+    "compareAt": 25,
+    "rating": 4.6,
+    "colors": ["Sand", "Black", "White"],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "description": "Soft mid-weight cotton tee with a clean cut. Your daily staple.",
+    "fabric": "100% combed cotton, 180gsm",
+    "care": "Machine wash cold, hang dry",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=900&q=80",
+    "variants": [
+      { "size": "XS", "color": "Sand", "sku": "TEE-SAND-XS", "stock": 12 },
+      { "size": "S", "color": "Sand", "sku": "TEE-SAND-S", "stock": 20 },
+      { "size": "M", "color": "Sand", "sku": "TEE-SAND-M", "stock": 3 },
+      { "size": "L", "color": "Sand", "sku": "TEE-SAND-L", "stock": 0 },
+      { "size": "XL", "color": "Sand", "sku": "TEE-SAND-XL", "stock": 8 }
+    ]
+  },
+  {
+    "slug": "campus-hoodie-berry",
+    "title": "Campus Hoodie — Berry",
+    "collection": "Street",
+    "price": 39,
+    "compareAt": 49,
+    "rating": 4.8,
+    "colors": ["Berry", "Ink"],
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Brushed fleece hoodie with bold color. Built for campus + city.",
+    "fabric": "80% cotton, 20% recycled poly, 320gsm",
+    "care": "Machine wash cold inside-out",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=900&q=80",
+    "variants": [
+      { "size": "S", "color": "Berry", "sku": "HDD-BER-S", "stock": 10 },
+      { "size": "M", "color": "Berry", "sku": "HDD-BER-M", "stock": 5 },
+      { "size": "L", "color": "Berry", "sku": "HDD-BER-L", "stock": 2 },
+      { "size": "XL", "color": "Berry", "sku": "HDD-BER-XL", "stock": 0 }
+    ]
+  },
+  {
+    "slug": "office-shirt-white",
+    "title": "Office Shirt — White",
+    "collection": "Work",
+    "price": 29,
+    "rating": 4.5,
+    "colors": ["White", "Sky"],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "description": "Wrinkle-resistant poplin shirt for internships + office days.",
+    "fabric": "Cotton-poplin stretch",
+    "care": "Machine wash warm, low iron",
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=900&q=80",
+    "variants": [
+      { "size": "S", "color": "White", "sku": "SHT-WHT-S", "stock": 15 },
+      { "size": "M", "color": "White", "sku": "SHT-WHT-M", "stock": 9 },
+      { "size": "L", "color": "White", "sku": "SHT-WHT-L", "stock": 4 }
+    ]
+  },
+  {
+    "slug": "denim-jacket-classic",
+    "title": "Denim Jacket — Classic",
+    "collection": "Outerwear",
+    "price": 59,
+    "compareAt": 75,
+    "rating": 4.7,
+    "colors": ["Indigo"],
+    "sizes": ["S", "M", "L"],
+    "description": "Classic trucker jacket that layers over everything.",
+    "fabric": "100% cotton denim",
+    "care": "Wash rarely, cold",
+    "image": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?w=900&q=80",
+    "variants": [
+      { "size": "S", "color": "Indigo", "sku": "DNM-IND-S", "stock": 6 },
+      { "size": "M", "color": "Indigo", "sku": "DNM-IND-M", "stock": 6 },
+      { "size": "L", "color": "Indigo", "sku": "DNM-IND-L", "stock": 1 }
+    ]
+  },
+  {
+    "slug": "summer-dress-flora",
+    "title": "Summer Dress — Flora",
+    "collection": "Dresses",
+    "price": 35,
+    "rating": 4.6,
+    "colors": ["Flora"],
+    "sizes": ["XS", "S", "M", "L"],
+    "description": "Breezy midi dress with pockets. Yes, pockets.",
+    "fabric": "Viscose crepe",
+    "care": "Gentle wash, line dry",
+    "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=900&q=80",
+    "variants": [
+      { "size": "XS", "color": "Flora", "sku": "DRS-FLO-XS", "stock": 7 },
+      { "size": "S", "color": "Flora", "sku": "DRS-FLO-S", "stock": 11 },
+      { "size": "M", "color": "Flora", "sku": "DRS-FLO-M", "stock": 0 }
+    ]
+  },
+  {
+    "slug": "joggers-ink",
+    "title": "Joggers — Ink",
+    "collection": "Essentials",
+    "price": 32,
+    "rating": 4.4,
+    "colors": ["Ink", "Grey"],
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Tapered joggers with cuff + zip pocket for commute.",
+    "fabric": "French terry",
+    "care": "Machine wash cold",
+    "image": "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?w=900&q=80",
+    "variants": [
+      { "size": "M", "color": "Ink", "sku": "JOG-INK-M", "stock": 14 },
+      { "size": "L", "color": "Ink", "sku": "JOG-INK-L", "stock": 5 }
+    ]
+  }
+]
